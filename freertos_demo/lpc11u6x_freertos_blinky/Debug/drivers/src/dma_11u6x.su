@@ -1,0 +1,5 @@
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/dma_11u6x.h:291:24:Chip_DMA_GetActiveChannels	16	static
+../drivers/src/dma_11u6x.c:71:6:Chip_DMA_SetTranBits	32	static
+../drivers/src/dma_11u6x.c:83:6:Chip_DMA_ClearTranBits	32	static
+../drivers/src/dma_11u6x.c:95:6:Chip_DMA_SetupChannelTransferSize	32	static
+../drivers/src/dma_11u6x.c:102:6:Chip_DMA_SetupTranChannel	40	static

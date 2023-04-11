@@ -1,0 +1,5 @@
+../drivers/src/syscon_11u6x.c:61:6:Chip_SYSCTL_SetPinInterrupt	16	static
+../drivers/src/syscon_11u6x.c:73:6:Chip_SYSCTL_SetDeepSleepPD	16	static
+../drivers/src/syscon_11u6x.c:80:6:Chip_SYSCTL_SetWakeup	16	static
+../drivers/src/syscon_11u6x.c:87:6:Chip_SYSCTL_PowerDown	24	static
+../drivers/src/syscon_11u6x.c:98:6:Chip_SYSCTL_PowerUp	24	static

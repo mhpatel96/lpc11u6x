@@ -1,0 +1,11 @@
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/romapi_11u6x.h:95:20:iap_entry	24	static
+../drivers/src/iap.c:51:9:Chip_IAP_PreSectorForReadWrite	64	static
+../drivers/src/iap.c:64:9:Chip_IAP_CopyRamToFlash	72	static
+../drivers/src/iap.c:79:9:Chip_IAP_EraseSector	64	static
+../drivers/src/iap.c:93:9:Chip_IAP_BlankCheckSector	64	static
+../drivers/src/iap.c:106:10:Chip_IAP_ReadPID	48	static
+../drivers/src/iap.c:117:9:Chip_IAP_ReadBootCode	48	static
+../drivers/src/iap.c:128:9:Chip_IAP_Compare	72	static
+../drivers/src/iap.c:142:9:Chip_IAP_ReinvokeISP	48	static
+../drivers/src/iap.c:153:10:Chip_IAP_ReadUID	48	static
+../drivers/src/iap.c:164:9:Chip_IAP_ErasePage	64	static

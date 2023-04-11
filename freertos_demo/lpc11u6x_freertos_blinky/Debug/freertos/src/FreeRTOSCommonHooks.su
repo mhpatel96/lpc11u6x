@@ -1,0 +1,5 @@
+../freertos/src/FreeRTOSCommonHooks.c:60:6:FreeRTOSDelay	24	static
+../freertos/src/FreeRTOSCommonHooks.c:69:15:vApplicationMallocFailedHook	8	static
+../freertos/src/FreeRTOSCommonHooks.c:77:15:vApplicationIdleHook	8	static
+../freertos/src/FreeRTOSCommonHooks.c:84:15:vApplicationStackOverflowHook	16	static
+../freertos/src/FreeRTOSCommonHooks.c:98:15:vApplicationTickHook	8	static

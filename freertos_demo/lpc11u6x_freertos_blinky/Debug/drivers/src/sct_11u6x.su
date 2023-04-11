@@ -1,0 +1,11 @@
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/syscon_11u6x.h:155:20:Chip_SYSCTL_AssertPeriphReset	16	static
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/syscon_11u6x.h:165:20:Chip_SYSCTL_DeassertPeriphReset	16	static
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/syscon_11u6x.h:175:20:Chip_SYSCTL_PeriphReset	16	static
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/clock_11u6x.h:279:20:Chip_Clock_EnablePeriphClock	16	static
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/clock_11u6x.h:289:20:Chip_Clock_DisablePeriphClock	16	static
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/sct_11u6x.h:401:20:Chip_SCT_SetControl	16	static
+E:\MCUXpresso\Workspace\workspace_lpc11u6x_freertos_demo\lpc11u6x_freertos_blinky\drivers\inc/sct_11u6x.h:412:20:Chip_SCT_ClearControl	16	static
+../drivers/src/sct_11u6x.c:54:6:Chip_SCT_Init	16	static
+../drivers/src/sct_11u6x.c:71:6:Chip_SCT_DeInit	16	static
+../drivers/src/sct_11u6x.c:81:6:Chip_SCT_SetClrControl	24	static
+../drivers/src/sct_11u6x.c:92:6:Chip_SCT_SetConflictResolution	24	static
